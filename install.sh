@@ -7,6 +7,7 @@ printf "\n\nDownloading Files!\n\n"
 wget http://tcpdiag.dl.sourceforge.net/project/crunch-wordlist/crunch-wordlist/crunch-3.6.tgz
 wget http://www.openwall.com/john/j/john-1.8.0.tar.xz
 wget https://raw.githubusercontent.com/jmathai/php-multi-curl/master/EpiCurl.php
+wget https://raw.githubusercontent.com/jmathai/php-multi-curl/master/src/EpiCurl.php
 printf "\n\nUnpacking!\n\n"
 tar xf crunch-3.6.tgz
 tar xf john-1.8.0.tar.xz
